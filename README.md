@@ -36,7 +36,7 @@
 
 ## 🖼️ صور من المشروع | Screenshots
 
-> *(ارفع الصور أول داخل مجلد `images/` ثم استخدم الروابط هنا)*
+> 
 
 ![Login Page](images/login_page.png)  
 ![Main Page](images/main_page.png)
