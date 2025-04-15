@@ -38,7 +38,7 @@
 
 > *(ارفع الصور أول داخل مجلد `images/` ثم استخدم الروابط هنا)*
 
-![Login Page](login_page.png)  
+![Login Page](images/login_page.png)  
 ![Main Page](main_page.png)
 
 ---
