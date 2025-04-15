@@ -1,27 +1,61 @@
-# Banking System Project
+# 💼 مشروع موقع بنكي | Banking System Project
 
-A web-based banking system developed using PHP and MySQL.  
-Built as a graduation project from the College of Technology.
+نظام ويب لإدارة العمليات المصرفية تم تطويره باستخدام PHP و MySQL كجزء من مشروع التخرج من الكلية التقنية.
 
-## Features:
-- User Registration & Login
-- Balance display
-- Transfers between accounts
-- Loan requests
-- Donations and savings
-- Admin panel for account management
+---
 
-## Tech Stack:
-- PHP
-- HTML/CSS
-- MySQL
-- XAMPP / NetBeans
+## 📌 فكرة المشروع | Project Idea
 
-## How to Run:
-1. Import the SQL file to your local database (phpMyAdmin)
-2. Configure database settings in `config.php`
-3. Run using local server (e.g., XAMPP)
+نظام يتيح للمستخدم:
+- إنشاء حساب
+- تسجيل الدخول
+- عرض الرصيد
+- تحويل المبالغ
+- التبرعات
+- فتح حساب ادخار
+- إدارة الحساب من قبل المشرف
 
-## Portfolio:
-[Click to view PDF](Portfolio.pdf)
+---
 
+## ⚙️ التقنيات المستخدمة | Technologies Used
+
+- لغة البرمجة: PHP, HTML, CSS
+- قاعدة البيانات: MySQL
+- بيئة التطوير: XAMPP, NetBeans
+- أدوات التصميم: Draw.io, Access
+
+---
+
+## 🛠️ طريقة التشغيل | How to Run
+
+1. استورد قاعدة البيانات إلى phpMyAdmin
+2. عدّل ملف `config.php` بمعلومات الاتصال
+3. شغّل المشروع على سيرفر محلي مثل XAMPP
+
+---
+
+## 🖼️ صور من المشروع | Screenshots
+
+> *(ارفع الصور أول داخل مجلد `images/` ثم استخدم الروابط هنا)*
+
+![Login Page](login_page.png)  
+![Main Page](main_page.png)
+
+---
+
+## 📄 ملف العرض | Project Portfolio
+
+📎 [اضغط هنا لعرض البورتفوليو](Portfolio.pdf)
+
+---
+
+## 📬 للتواصل | Contact
+
+- 📧 ahmsul61@gmail.com  
+- 📱 0562173630
+
+---
+
+## 📝 الرخصة | License
+
+هذا المشروع متاح تحت رخصة MIT.
