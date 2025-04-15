@@ -38,8 +38,8 @@
 
 > *(ارفع الصور أول داخل مجلد `images/` ثم استخدم الروابط هنا)*
 
-![Login Page]("C:\Users\Admin\Downloads\login_page.png")  
-![Main Page]("C:\Users\Admin\Pictures\Screenshots\main_page.png")
+![Login Page](login_page.png)  
+![Main Page](main_page.png)
 
 ---
 
