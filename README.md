@@ -23,5 +23,5 @@ Built as a graduation project from the College of Technology.
 3. Run using local server (e.g., XAMPP)
 
 ## Portfolio:
-[Click to view PDF](Portfolio.pdf)
+[Click to view PDF](Portfolio)
 
